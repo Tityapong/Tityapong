@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-seven-42.vercel.app/](https://portfolio-theta-seven-42.vercel.app/)
+- 👨‍💻 All of my projects are available at https://overview-pong.vercel.app/
 
 - 💬 Ask me about **react**
 
