@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://overview-pong.vercel.app/](https://overview-pong.vercel.app/)
+- 👨‍💻 All of my projects are available at https://my-resume-seven-theta.vercel.app/
 
 - 💬 Ask me about **React**
 
