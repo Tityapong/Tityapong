@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sok Tityapong</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
+<h3 align="center">A passionate Web developer from Cambodia</h3>
 <p align="center"><img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/11/tes_gen_blog_post_071921_1171172626-800x412.jpg" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **We soccer**
 
 - 🌱 I’m currently learning **Next.js and Node.js**
 
-- 👨‍💻 All of my projects are available at https://my-resume-seven-theta.vercel.app/
+- 👨‍💻 All of my projects are available at https://my-resume-gold-ten.vercel.app/
 
 - 💬 Ask me about **React**
 
