@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **We soccer**
 
-- 🌱 I’m currently learning **Next.js and Node.js**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👨‍💻 All of my projects are available at https://my-resume-gold-ten.vercel.app/
 
