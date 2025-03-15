@@ -75,16 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tityapong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="tityapong" />
 </div>
 
-## 🔥 Recent Projects
 
-<div align="center">
-  <a href="https://github.com/tityapong/we-soccer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tityapong&repo=we-soccer&theme=tokyonight&hide_border=true" alt="We Soccer" />
-  </a>
-  <a href="https://my-resume-gold-ten.vercel.app/">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tityapong&repo=my-resume&theme=tokyonight&hide_border=true" alt="Portfolio" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tityapong&label=Profile%20views&color=6FA4FC&style=flat" alt="tityapong" />
