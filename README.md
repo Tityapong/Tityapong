@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;React+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
