@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hello World, I'm Sok Tityapong</h1>
 <h3 align="center">A passionate web developer from Cambodia 🇰🇭</h3>
 
-<p align="center">
-  <img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/11/tes_gen_blog_post_071921_1171172626-800x412.jpg" alt="coding" width="500" />
-</p>
+<div align="center">
+  <img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/11/tes_gen_blog_post_071921_1171172626-800x412.jpg" alt="coding" width="600" />
+</div>
 
 <div align="center">
-  
   <a href="https://my-resume-gold-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -16,10 +15,7 @@
   <a href="https://github.com/tityapong">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;React+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -27,17 +23,37 @@
 
 ## 💫 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Tech stack animation">
+
 - 🔭 I'm currently working on **We Soccer**
 - 🌱 I'm currently learning **PHP and Laravel**
-- 👨‍💻 Portfolio: [https://my-resume-gold-ten.vercel.app/](https://my-resume-gold-ten.vercel.app/)
+- 👨‍💻 Portfolio: [my-resume-gold-ten.vercel.app](https://my-resume-gold-ten.vercel.app/)
 - 💬 Ask me about **React and modern web development**
 - 📫 Reach me at: **tityapong77@gmail.com**
 - ⚡ Fun fact: **I'm funny**
 
-## 🛠️ Languages and Tools
+<br clear="right"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,cpp,figma,git&theme=dark" alt="Skills" />
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  
+  <h4>Backend</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  
+  <h4>Tools & Others</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
 
 ## 📊 GitHub Stats
@@ -59,6 +75,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tityapong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="tityapong" />
 </div>
 
+## 🔥 Recent Projects
+
+<div align="center">
+  <a href="https://github.com/tityapong/we-soccer">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tityapong&repo=we-soccer&theme=tokyonight&hide_border=true" alt="We Soccer" />
+  </a>
+  <a href="https://my-resume-gold-ten.vercel.app/">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tityapong&repo=my-resume&theme=tokyonight&hide_border=true" alt="Portfolio" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tityapong&label=Profile%20views&color=6FA4FC&style=flat" alt="tityapong" />
 </div>
@@ -69,4 +96,10 @@
   
   ![Snake animation](https://github.com/tityapong/tityapong/blob/output/github-contribution-grid-snake-dark.svg)
   
+</div>
+
+<div align="center">
+  <a href="https://github.com/tityapong">
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Cambodia-6FA4FC?style=for-the-badge" alt="Made with love in Cambodia" />
+  </a>
 </div>
