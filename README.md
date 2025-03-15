@@ -7,10 +7,22 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-resume-gold-ten.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tityapong77@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tityapong)
+  <a href="https://my-resume-gold-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:tityapong77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/tityapong">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;React+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
@@ -25,39 +37,36 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,cpp,figma,git&theme=dark" alt="Skills" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tityapong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tityapong" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tityapong&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tityapong&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="trophy" />
+</p>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tityapong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="tityapong" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tityapong&theme=tokyonight&hide_border=true" alt="tityapong" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tityapong&show_icons=true&locale=en&theme=tokyonight" alt="tityapong" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tityapong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="tityapong" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tityapong&theme=tokyonight" alt="tityapong" />
+  <img src="https://komarev.com/ghpvc/?username=tityapong&label=Profile%20views&color=6FA4FC&style=flat" alt="tityapong" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tityapong&label=Profile%20views&color=0e75b6&style=flat" alt="tityapong" />
+  
+  ![Snake animation](https://github.com/tityapong/tityapong/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
