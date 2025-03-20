@@ -26,7 +26,7 @@
 - 🔭 I'm currently working on **We Soccer with my team**
 - 🌱 I'm currently learning **PHP and Laravel**
 - 👨‍💻 Portfolio: [my-resume-gold-ten.vercel.app](https://my-resume-gold-ten.vercel.app/)
-- 💬 Ask me about **React and modern web development**
+- 💬 Ask me about **web development**
 - 📫 Reach me at: **tityapong77@gmail.com**
 - ⚡ Fun fact: **I'm funny**
 
