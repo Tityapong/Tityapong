@@ -23,7 +23,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Tech stack animation">
 
-- 🔭 I'm currently working on **We Soccer**
+- 🔭 I'm currently working on **We Soccer with my team**
 - 🌱 I'm currently learning **PHP and Laravel**
 - 👨‍💻 Portfolio: [my-resume-gold-ten.vercel.app](https://my-resume-gold-ten.vercel.app/)
 - 💬 Ask me about **React and modern web development**
