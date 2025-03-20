@@ -81,11 +81,7 @@
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/tityapong/tityapong/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
+
 
 <div align="center">
   <a href="https://github.com/tityapong">
