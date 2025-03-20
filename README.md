@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Sok Tityapong</h1>
 <h3 align="center">A passionate web developer from Cambodia 🇰🇭</h3>
 
-<div align="center">
-  <img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/11/tes_gen_blog_post_071921_1171172626-800x412.jpg" alt="coding" width="600" />
-</div>
+
 
 <div align="center">
   <a href="https://my-resume-gold-ten.vercel.app/">
