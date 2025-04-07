@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello World, I'm Sok Tityapong</h1>
 <h3 align="center">A passionate web developer from Cambodia 🇰🇭</h3>
 
-
-
 <div align="center">
   <a href="https://my-resume-gold-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -57,7 +55,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tityapong&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tityapong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="tityapong" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tityapong&theme=tokyonight&hide_border=true" alt="tityapong" />
 </div>
 
 <p align="center">
@@ -65,23 +64,10 @@
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tityapong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="tityapong" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tityapong&theme=tokyonight&hide_border=true" alt="tityapong" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tityapong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="tityapong" />
-</div>
-
-
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=tityapong&label=Profile%20views&color=6FA4FC&style=flat" alt="tityapong" />
 </div>
 
 ---
-
-
 
 <div align="center">
   <a href="https://github.com/tityapong">
