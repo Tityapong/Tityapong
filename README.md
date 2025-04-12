@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Sok Tityapong</h1>
+<h1 align="center">👋 Hello , I'm Sok Tityapong</h1>
 <h3 align="center">A passionate web developer from Cambodia 🇰🇭</h3>
 
 <div align="center">
