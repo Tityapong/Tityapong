@@ -22,7 +22,7 @@
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Tech stack animation">
 
 - 🔭 I'm currently working on **We Soccer with my team**
-- 🌱 I'm currently learning **PHP and Laravel**
+- 🌱 I'm currently learning **Nest Js**
 - 👨‍💻 Portfolio: [tityapong-dev.vercel.app/](https://tityapong-dev.vercel.app/)
 - 💬 Ask me about **web development**
 - 📫 Reach me at: **tityapong77@gmail.com**
